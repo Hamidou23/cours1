@@ -7,3 +7,7 @@ ju
 ki
 lo
 rt
+az
+az
+ez
+er
