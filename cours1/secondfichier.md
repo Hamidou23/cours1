@@ -1,1 +1,9 @@
 se
+e'
+fr
+gt
+hy
+ju
+ki
+lo
+mp
