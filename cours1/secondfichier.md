@@ -6,4 +6,4 @@ hy
 ju
 ki
 lo
-mp
+rt
